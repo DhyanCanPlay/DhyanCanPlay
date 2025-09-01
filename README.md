@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhyancanplay&label=Profile%20views&color=0e75b6&style=flat" alt="dhyancanplay" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhyancanplay" alt="dhyancanplay" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=DhyanCanPlay&theme=juicyfresh&column=3&margin-w=7&margin-h=7" alt="dhyancanplay" /></a> </p>
 
 - 🔭 I’m currently working on **Discord Bots**
 
